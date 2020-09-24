@@ -34,4 +34,5 @@
 
 
 - **Final Assembly**
+![caster_assembly](images/caster_assembly.png)
 
