@@ -36,6 +36,7 @@
 - **Final Assembly**
 ![caster_assembly](images/caster_assembly.png)
 
+---
 
 ### [link to dorothy's dowel pins onshape document!](https://cvilleschools.onshape.com/documents/21581d0deec776e4ff3f4d38/w/358d316a9c78fbe9507db262/e/97710db6f1c417874538c0c3)
 
@@ -56,6 +57,7 @@ This has two configurations of the outside length: 12 inch and 9 inch.
 WOW! Mates are so much easier in Onshape, just 3 fasten mates and 8 revolute mates and you're done!
 ![frame](images/frame.png)
 
+---
 
 ### [link to onshape challenge!](https://cvilleschools.onshape.com/documents/ec139adf7bf4c55766fcfcb6/w/02225c7a7e2293e6a7ffe91a/e/0765c6eabe6468150358734c)
 
