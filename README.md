@@ -55,3 +55,27 @@ This has two configurations of the outside length: 12 inch and 9 inch.
 
 WOW! Mates are so much easier in Onshape, just 3 fasten mates and 8 revolute mates and you're done!
 ![frame](images/frame.png)
+
+
+### [link to onshape challenge!](https://cvilleschools.onshape.com/documents/ec139adf7bf4c55766fcfcb6/w/02225c7a7e2293e6a7ffe91a/e/0765c6eabe6468150358734c)
+
+- **Cube**
+
+![cube](images/cube.png)
+
+
+- **Spinner Shaft**
+
+![spinner](images/spinner.png)
+
+
+- **Bracket**
+
+![bracket](images/bracket.png)
+
+
+- **Final Assembly**
+
+Important: use revolute mates to connect the cube to the spinner shaft... but use cylindrical mates to connect the spinners to the bracket.
+![onshape_challenge](images/onshape_challenge.png)
+
